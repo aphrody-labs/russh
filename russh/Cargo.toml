@@ -53,6 +53,7 @@ keccak = "0.2.0"
 log.workspace = true
 md5 = "0.8"
 ml-kem = "0.3"
+sntrup761 = "0.4"
 module-lattice = "0.2"
 num-bigint = { version = "0.5", features = ["rand_0_10"] }
 p256 = { version = "0.14", features = ["ecdh"] }
